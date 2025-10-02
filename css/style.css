@@ -206,10 +206,11 @@ header .intro-text {
 }
 #features .features-item {
 	margin: 0 20px;
-	border-radius: 20px;
+	
 }
 #features img {
 	margin: 30px auto 20px;
+	border-radius: 20px;
 }
 #features .about-img:before {
 	display: block;
