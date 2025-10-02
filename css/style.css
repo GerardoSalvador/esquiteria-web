@@ -176,21 +176,21 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	background: rgba(0,0,0,0.4);
+	background: rgba(0,0,0,0.7);
 }
 .intro h1 {
 	font-family: 'Rochester', cursive;
-	color: #fff;
+	color: #ffffff;
 	font-size: 10em;
 	font-weight: 400;
 	margin-top: 0;
 }
 .intro span {
-	color: #a7c44c;
+	color: #ffffff;
 	font-weight: 600;
 }
 .intro p {
-	color: #fff;
+	color: #ffffff;
 	font-size: 24px;
 	font-weight: 400;
 	margin-top: 150px;
